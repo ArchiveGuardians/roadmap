@@ -1,9 +1,9 @@
 # roadmap
 
-| GitHub Company   | Forking Status   |
-|------------------|-------------------|
-| Microsoft        | Started       |
-| Google           | Not started       |
-| Amazon           | Not started       |
-| Facebook         | Not started       |
-| Apple            | Not started       |
+| GitHub Company   | Forking Status   | Progress  |
+|------------------|-------------------| ------------------|
+| Microsoft        | Started       | 0%       |
+| Google           | Not started       | 0%       |
+| Amazon           | Not started       | 0%       |
+| Facebook         | Not started       | 0%       |
+| Apple            | Not started       | 0%       |
