@@ -2,7 +2,7 @@
 
 | GitHub Company   | Forking Status   | Progress  |
 |------------------|-------------------| ------------------|
-| Microsoft        | Started       | 0%       |
+| Microsoft        | Started       | 0.1%       |
 | Google           | Not started       | 0%       |
 | Amazon           | Not started       | 0%       |
 | Facebook         | Not started       | 0%       |
